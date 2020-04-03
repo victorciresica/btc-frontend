@@ -1,0 +1,19 @@
+.deploy-form-input {
+    background-color: #f8f9fa;
+}
+
+.textarea-input {
+    min-height: 150px;
+}
+
+.deploy-form-label {
+    font-weight: 500;
+}
+
+.input-btn {
+    margin: 10px;
+}
+
+.not-visible {
+    display:none;
+}

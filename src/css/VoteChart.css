@@ -1,0 +1,61 @@
+.chart-canvas {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart-refresh {
+    margin-bottom: 20px;
+    color: white;
+    background: #007bff;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 8px;
+}
+
+.chart-refresh:hover {
+    background: #0069d9;
+}
+
+.line {
+    fill: none;
+    stroke: #00FF00;
+    stroke-width: 2px;
+}
+
+.axis {
+    font: 13px sans-serif;
+}
+
+.grid line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+  }
+  
+.grid path {
+    stroke-width: 0;
+}
+
+.graph-title {
+    text-anchor: middle;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.area {
+    fill: #d4ebf2;
+}
+
+.label {
+    stroke: #289FFF;
+    font-weight: 500;
+}
