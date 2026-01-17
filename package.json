@@ -43,6 +43,6 @@
     "redux": "^4.0.0",
     "remote-redux-devtools": "^0.5.16",
     "styled-components": "^5.0.1",
-    "web3": "^1.2.6"
+    "web3": "^4.16.0"
   }
 }
